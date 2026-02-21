@@ -1,4 +1,4 @@
-# ESP32 Project: Development Version
+# ESP32 Project: Combined Version
 
 ## Опис ідеї (Vision)
 Система моніторингу навколишнього середовища на базі ESP32. 
