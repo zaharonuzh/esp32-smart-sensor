@@ -1,1 +1,6 @@
-void readSensor() { /* Logic here */ } 
+void readSensor() 
+{ 
+	/* Logic here */ 
+
+	delay(10);
+} 
