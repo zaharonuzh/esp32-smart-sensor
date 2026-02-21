@@ -1,4 +1,4 @@
-# ESP32 Smart Sensor MVP
+# ESP32 Project: Production Version
 
 ## Опис ідеї (Vision)
 Система моніторингу навколишнього середовища на базі ESP32. 
